@@ -52,6 +52,6 @@ Before you begin, ensure that you have the following installed:
   ```bash
   nodemon
 
-**Happy Gardening! 🌻**
+## Happy Gardening! 🌻
 
 This format maintains clarity while ensuring the instructions are more condensed and grouped together, eliminating the need for strict separation between frontend and backend steps.
