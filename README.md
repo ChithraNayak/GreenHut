@@ -68,3 +68,15 @@ Before you begin, ensure that you have the following installed:
   ```bash
   cd server
   npm install
+
+4. **Run the application**:
+- For frontend (in the client directory):
+  ```bash
+  npm start
+- For backend (in the root directory):
+  ```bash
+  nodemon
+
+**Happy Gardening! 🌻**
+
+This format maintains clarity while ensuring the instructions are more condensed and grouped together, eliminating the need for strict separation between frontend and backend steps.
