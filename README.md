@@ -60,11 +60,11 @@ Before you begin, ensure that you have the following installed:
    cd GreenHut
    
 3. **Install dependencies for both frontend and backend**:
-   - For the frontend (in the client directory)
+- For the frontend (in the client directory)
    ```bash
    cd client
    npm install
-  - For the backend (in the root directory)
+- For the backend (in the root directory)
   ```bash
   cd server
   npm install
